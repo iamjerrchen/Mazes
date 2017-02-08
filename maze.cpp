@@ -15,7 +15,7 @@
 #define RIGHT	0	// +1 in x coord 	// 0 = horizontal wall
 #define DOWN	1	// +1 in y coord 	// 1 = vertical wall
 #define LEFT	2	// -1 in x coord
-#define UP		3	// -1 in y coord
+#define UP	3	// -1 in y coord
 
 /* Constructor creates an empty maze
  * Initialize all member variables
