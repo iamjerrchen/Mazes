@@ -26,5 +26,5 @@ int main()
     solved->writeToFile("solved.png");
     delete solved;
 
-    return 0;
+    return 0; 
 }
